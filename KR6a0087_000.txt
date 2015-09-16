@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 齋經
+#+DATE: 2015-08-30 19:30:32.482886
+#+PROPERTY: JUAN 0
